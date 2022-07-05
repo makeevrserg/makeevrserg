@@ -13,7 +13,7 @@
         <img alt="spigot" src="https://img.shields.io/badge/github-AstraMarket-1B76CA"/>
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner">
-        <img alt="spigot" src="https://img.shields.io/badge/github-AstraLearner-1B76CA"/>
+        <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-AstraLearner-1B76CA"/>
     </a>
 </p>
 
