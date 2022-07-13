@@ -25,5 +25,7 @@ Open source lib allows to create spigot plugins faster and easier
 
 ## [AstraAuction](https://www.spigotmc.org/resources/astra-market.99114/)
 Free and [open source](https://github.com/Astra-Interactive/AstraAuctions) auctions Spigot plugin 
+## [SimpleRating](https://www.spigotmc.org/resources/simple-rating.103317/)
+Free and [open source](https://github.com/Astra-Interactive/AstraRating) player rating Spigot plugin 
 ## [EmpireSMP](https://empireprojekt.ru/)
 Minecraft SMP server with lot of self-written plugins
