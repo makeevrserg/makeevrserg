@@ -12,6 +12,9 @@
     <a href="https://www.spigotmc.org/resources/astra-market.99114/">
         <img alt="spigot" src="https://img.shields.io/badge/github-AstraMarket-1B76CA"/>
     </a>
+    <a href="https://www.spigotmc.org/resources/simple-rating.103317/">
+        <img alt="spigot" src="https://img.shields.io/badge/github-SimpleRating-1B76CA"/>
+    </a>
     <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner">
         <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-AstraLearner-1B76CA"/>
     </a>
