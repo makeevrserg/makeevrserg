@@ -15,6 +15,9 @@
     <a href="https://www.spigotmc.org/resources/simple-rating.103317/">
         <img alt="spigot" src="https://img.shields.io/badge/github-SimpleRating-1B76CA"/>
     </a>
+    <a href="https://www.spigotmc.org/resources/astra-template.103383/">
+        <img alt="spigot" src="https://img.shields.io/badge/github-AstraTemplate-1B76CA"/>
+    </a>
     <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner">
         <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-AstraLearner-1B76CA"/>
     </a>
@@ -30,5 +33,7 @@ Open source lib allows to create spigot plugins faster and easier
 Free and [open source](https://github.com/Astra-Interactive/AstraAuctions) auctions Spigot plugin 
 ## [SimpleRating](https://www.spigotmc.org/resources/simple-rating.103317/)
 Free and [open source](https://github.com/Astra-Interactive/AstraRating) player rating Spigot plugin 
+## [AstraTemplate](https://www.spigotmc.org/resources/astra-template.103383/)
+Free and [open source](https://github.com/Astra-Interactive/AstraTemplate) template for spigot plugin creation
 ## [EmpireSMP](https://empireprojekt.ru/)
 Minecraft SMP server with lot of self-written plugins
