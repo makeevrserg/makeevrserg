@@ -61,8 +61,6 @@ val makeevrserg = developer {
 </p>
 
 * Free and open source auctions Spigot plugin 
-* [Source](https://github.com/Astra-Interactive/AstraAuctions)
-* [Spigot](https://www.spigotmc.org/resources/astra-market.99114/)
 
 <p>
     <a href="https://github.com/Astra-Interactive/AstraRating">
@@ -71,8 +69,6 @@ val makeevrserg = developer {
 </p>
 
 * Free and open source player rating Spigot plugin
-* [Source](https://github.com/Astra-Interactive/AstraRating)
-* [Spigot](https://www.spigotmc.org/resources/simple-rating.103317/)
 
 <p>
     <a href="https://github.com/Astra-Interactive/AstraAuctions">
@@ -81,8 +77,6 @@ val makeevrserg = developer {
 </p>
 
 * Free and open source template for spigot plugin creation
-* [Source](https://github.com/Astra-Interactive/AstraTemplate)
-* [Spigot](https://www.spigotmc.org/resources/astra-template.103383/)
 
 <p>
     <a href="https://EmpireProjekt.ru">
