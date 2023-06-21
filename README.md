@@ -30,6 +30,15 @@ val makeevrserg = developer {
 </br>
 
 <p>
+    <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner">
+        <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-AstraLearner-1B76CA"/>
+    </a>
+</p>
+
+* Most ambitious project. KMM(Anroid/JVM) application, which will help you to learn foreign words
+* [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
+
+<p>
     <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile">
         <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-EmpireProjektMobile-1B76CA"/>
     </a>
@@ -38,15 +47,6 @@ val makeevrserg = developer {
 * Empire Network monitoring. Few screens but clean architecture without clean architecture.
 * [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile)
 * [Source code](https://github.com/makeevrserg/EmpireProjekt-Mobile)
-
-<p>
-    <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner">
-        <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-AstraLearner-1B76CA"/>
-    </a>
-</p>
-
-* Most ambitious project. KMM(Anroid/JVM) application, which will help you to learn foreign words
-* [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
 
 </p>
 <p>
