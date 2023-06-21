@@ -21,11 +21,24 @@ val makeevrserg = developer {
 - [makeevrserg@gmail.com](makeevrserg@gmail.com)
 
 
+
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/makeevrserg/makeevrserg/main/astra.png" alt="logo" width="128">
 </h1>
 <h4 align="center">☄️ Released projects, made with love in Kotlin.</h4>
 </br>
+
+<p>
+    <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile">
+        <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-EmpireProjektMobile-1B76CA"/>
+    </a>
+</p>
+
+* Empire Network monitoring. Few screens but clean architecture without clean architecture.
+* [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile)
+* [Source code](https://github.com/makeevrserg/EmpireProjekt-Mobile)
+
 <p>
     <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner">
         <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-AstraLearner-1B76CA"/>
