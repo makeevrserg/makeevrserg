@@ -44,7 +44,7 @@ val makeevrserg = developer {
     </a>
 </p>
 
-* Empire Network monitoring. Few screens but clean architecture without clean architecture.
+* Empire Network monitoring. KMM(Anroid/iOS) Few screens but clean architecture without clean architecture.
 * [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile)
 * [Source code](https://github.com/makeevrserg/EmpireProjekt-Mobile)
 
