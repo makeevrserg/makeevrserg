@@ -13,6 +13,14 @@ val makeevrserg = developer {
         telegram("@makeevrserg")
         email("makeevrserg@gmail.com")
     }
+    degree {
+        bachelor("Southern Federal University") {
+            desc = "Applied mathematics and CS"
+        }
+        master("Southern Federal University") {
+            desc = "Fundamental CS and IT"
+        }
+    }
 }
 ```
 ## Contact me
