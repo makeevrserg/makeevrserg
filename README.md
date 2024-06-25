@@ -6,9 +6,9 @@ val makeevrserg = developer {
     about {
         name = "Roman Makeev"
         displayName = "makeevrserg"
-        age = 23
+        age = 24
     }
-    tech("Kotlin", "Android", "KMM")
+    tech("Kotlin", "Android", "KMP")
     contacts {
         telegram("@makeevrserg")
         email("makeevrserg@gmail.com")
@@ -43,16 +43,17 @@ val makeevrserg = developer {
     </a>
 </p>
 
-* Most ambitious project. KMM(Anroid/JVM) application, which will help you to learn foreign words
+* Most ambitious project. KMP(Anroid/JVM) application, which will help you to learn foreign words
 * [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
 
 <p>
-    <a href="https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile">
-        <img alt="spigot" src="https://img.shields.io/badge/GooglePlay-EmpireProjektMobile-1B76CA"/>
+    <a href="https://EmpireProjekt.ru">
+        <img alt="MinecraftServer" src="https://img.shields.io/badge/minecraft-EmpireProjekt-1B76CA"/>
     </a>
 </p>
 
-* Empire Network monitoring. KMM(Anroid/iOS) Few screens but clean architecture without clean architecture.
+* Minecraft SMP server with lot of self-written plugins
+* [WebSite](https://empireprojekt.ru) written in Kotlin!
 * [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.empireprojekt.mobile)
 * [Source code](https://github.com/makeevrserg/EmpireProjekt-Mobile)
 
@@ -64,16 +65,22 @@ val makeevrserg = developer {
 </p>
 
 * Open source Spigot library, which allows to create spigot plugins faster and easier
-* A lot of useful modules for spigot development: ORM, GUI, DI, etc
 
 <p>
-    <a href="https://github.com/makeevrserg/MobileX">
-        <img alt="mobilex" src="https://img.shields.io/badge/github-MobileX-1B76CA"/>
+    <a href="https://github.com/makeevrserg/klibs.mikro">
+        <img alt="MiKro" src="https://img.shields.io/badge/github-MiKro-1B76CA"/>
     </a>    
 </p>
 
-* Open source KMM library, which contains core features
-* DI, Paging, Mappers, CleanArch stuff, Reaktive key-value storage
+* Don't waste your time on boilerplate! Use MiKro!
+
+<p>
+    <a href="https://github.com/makeevrserg/klibs.kstorage">
+        <img alt="KStorage" src="https://img.shields.io/badge/github-KStorage-1B76CA"/>
+    </a>    
+</p>
+
+* Forget about shared preferences, data store, use Krates to wrap it!
 
 <p>
     <a href="https://github.com/Astra-Interactive/AstraAuctions">
@@ -81,31 +88,14 @@ val makeevrserg = developer {
     </a>
 </p>
 
-* Free and open source auctions Spigot plugin 
+* Free and open source global market PaperMC plugin 
 
 <p>
     <a href="https://github.com/Astra-Interactive/AstraRating">
-        <img alt="spigot" src="https://img.shields.io/badge/github-SimpleRating-1B76CA"/>
+        <img alt="spigot" src="https://img.shields.io/badge/github-AstraRating-1B76CA"/>
     </a>
 </p>
 
 * Free and open source player rating Spigot plugin
-
-<p>
-    <a href="https://github.com/Astra-Interactive/AstraAuctions">
-        <img alt="spigot" src="https://img.shields.io/badge/github-AstraTemplate-1B76CA"/>
-    </a>
-</p>
-
-* Free and open source template for spigot plugin creation
-
-<p>
-    <a href="https://EmpireProjekt.ru">
-        <img alt="MinecraftServer" src="https://img.shields.io/badge/minecraft-EmpireProjekt-1B76CA"/>
-    </a>
-</p>
-
-* Minecraft SMP server with lot of self-written plugins
-* WebSite written in Kotlin!
 
 \* Consider look at my [github](https://github.com/makeevrserg?tab=repositories) or my [Organization Github](https://github.com/Astra-Interactive) to see more repositories
