@@ -28,7 +28,8 @@ val makeevrserg = developer {
 - [hh.ru](https://rostov.hh.ru/resume/83e5c0b7ff09db142a0039ed1f6a4469306442)
 - [makeevrserg@gmail.com](makeevrserg@gmail.com)
 
-
+## Publications
+- [Shadow and Obfuscated Compose Application](https://github.com/makeevrserg/ComposeShadow)
 
 
 <h1 align="center">
