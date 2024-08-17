@@ -30,6 +30,7 @@ val makeevrserg = developer {
 
 ## Publications
 - [Shadow and Obfuscated Compose Application](https://github.com/makeevrserg/ComposeShadow)
+- Key-Value storage on steroids [🇷🇺RU](https://habr.com/ru/articles/836690/) [🇺🇸EN](https://medium.com/@makeevrserg/key-value-storage-on-steroids-65ff0ab6d654)
 
 
 <h1 align="center">
