@@ -31,6 +31,7 @@ val makeevrserg = developer {
 ## Publications
 - [Shadow and Obfuscated Compose Application](https://github.com/makeevrserg/ComposeShadow)
 - Key-Value storage on steroids [🇷🇺RU](https://habr.com/ru/articles/836690/) [🇺🇸EN](https://medium.com/@makeevrserg/key-value-storage-on-steroids-65ff0ab6d654)
+- A Unified Approach to Key-Value Storage in Kotlin Multiplatform [🇷🇺RU](https://habr.com/ru/articles/910392/) [🇺🇸EN](https://medium.com/@makeevrserg/kstorage-a-unified-approach-to-key-value-storage-in-kotlin-multiplatform-d4213c0b86e0)
 
 
 <h1 align="center">
